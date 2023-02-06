@@ -1,8 +1,9 @@
-// créer une constante pour appeler express
+// créer une constante pour appeler  le frameworks express et ainsi faciliter la construction d'un serveur 
 const express = require('express');
 // créer une constante pour appeler fs et lire les fichier Json
 const fs = require('fs');
-// créer une constante pour dire que app = express()
+// // créer une constante pour dire que app = express() est ainsi stoker le framework express directement dans l'application 
+
  const app = express();
 
 
