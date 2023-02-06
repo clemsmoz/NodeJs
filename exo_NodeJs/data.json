@@ -1,14 +1,21 @@
 {
-    "data":[
+    "entrée":
+    [
         {"id":1, "name":"croquettes de poisson chat", "price":12},
         {"id":2, "name":"filets de pimp", "price":8},
-        {"id":3, "name":"soufflé braisé", "price":3},
+        {"id":3, "name":"soufflé braisé", "price":3}      
+    ],"plats":
+     [
         {"id":4, "name":"4 salade décomposée", "price":17},
         {"id":5, "name":"agneau déconfiné", "price":23},
         {"id":6, "name":"entrecote dégraissée", "price":27},
-        {"id":7, "name":"pelardon désseché", "price":5},
+        {"id":7, "name":"pelardon désseché", "price":5}
+    ], "desserts":
+    [
         {"id":8, "name":"copeaux de safran vanillés", "price":9},
-        {"id":9, "name":"café mouillette", "price":1},
+        {"id":9, "name":"café mouillette", "price":1}
+    ], "boissons":
+    [
         {"id":10, "name":"coca cola aux glacons", "price":3},
         {"id":11, "name":"smoothie champignons/radis", "price":8}
     ]
